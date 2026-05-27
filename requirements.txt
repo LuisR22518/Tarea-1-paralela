@@ -1,0 +1,9 @@
+# Dependencias del proyecto - Juego de la Vida de Conway
+# Instalar con:  pip install -r requirements.txt
+
+numpy>=1.24
+numba>=0.58
+matplotlib>=3.7
+
+# Necesario para guardar animaciones como GIF (visualization.py)
+pillow>=10.0
